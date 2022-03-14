@@ -1,0 +1,51 @@
+.breadcrumbs{margin-bottom:10px !important}
+button#send2,button.button.create-account,
+.set_pss{position: relative; z-index: 10; margin: 20px 10px; border:none;color:#fff;padding:5px 17px;border-radius:20px;border:1px solid #fff;transition:none;min-width:95px;height:auto;background:#14d334}
+button#send2:hover,button.button.create-account:hover,.set_pss:hover{color:#14d334;background:#ffffff;border:1px solid;transition:none}
+.temp-addresses{margin-bottom:15px}a.pull-right.button.btn-quaylai{margin-top:-30px;display:inline-block;border-radius:20px}
+@media (max-width: 767px){a.pull-right.button.btn-quaylai{margin-top:20px;float:none !important;clear:left;display:inline-block}
+span.note.order_date:after{display:block;content:""}}form#customer_address{padding:0px 15px}.block-form.box-border{margin:0 -15px}
+.form-list input.input-text{background:#fff}li.xxd input{vertical-align:-1px;margin-right:10px}
+.temp-addresses .button,#customer-order .button{display:inline-block;background:#ff5757;border:none;color:#fff;font-weight:600;padding:7px 15px;border-radius:20px}
+.temp-addresses .button:hover,#customer-order .button:hover{border:none;background:#ff5757}
+.account-login{margin-bottom:15px;padding: 0 10%;margin-top:15px}
+.account-login .col2-set .col-1,.account-login .col2-set .col-2{padding-bottom:0;padding:0px;text-align:left;width:48%;min-height:415px;background:#fff;border:1px solid #eaeaea;padding:20px}@media (max-width: 767px){.account-login .col2-set .col-1,.account-login .col2-set .col-2{min-height:auto;width:100%}}
+.account-login .col2-set .col-1{float:left}
+.account-login .col2-set .col-2{float:right}
+.account-login .col2-set .col-full{background:#fff;padding:45px;border:1px solid #eaeaea ;min-height: 650px;}
+.account-login .form-list input.input-text{position: relative; z-index: 10; background:#fff;border:1px solid #f0f0f0;padding:10px;width:50%;margin-top:5px;outline:none;color:#aaa}.required{color: red;}
+.content{
+/*    margin-left: 35%;*/
+width: 60%;
+float: right;
+}
+
+.clearfix:before,.row:after{content:'\0020';display:block;overflow:hidden;visibility:hidden;width:0;height:0}
+.row:before,.row:after{display:table;content:" "}.row{margin-right:-15px;margin-left:-15px}
+.row:after{clear:both}
+
+.col-md-6{position:relative;min-height:1px;padding-right:15px;padding-left:15px}.col-md-6{width:58.33333333%}.col-md-6{width:50%}
+.col-xs-12{position:relative;min-height:1px;padding-right:15px;padding-left:15px}.col-xs-12{float:left}.col-xs-12{width:100%}
+.buttons-set a{
+    color: #000;
+    position: relative;
+    z-index: 10;
+}
+.buttons-set a:hover{
+    color: red;
+    
+}
+ .account-login .col2-set .col-full .banner_mega {
+    width: 35%;
+    float: left;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+p.line_cus{
+    position: relative;
+    z-index: 10;
+}
+.content strong{
+     position: relative;
+    z-index: 10;
+}

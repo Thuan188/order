@@ -1,0 +1,15 @@
+a.view_more span,
+.sale-label,
+a.js-btn-compare, a.ajax_addtocart.js-btn-wishlist,
+.col-item .actions button.button.btn-cart:hover,
+button#send2, button.button.create-account,
+.ajax-product ul.tabs-title li.tab-link.current,
+.ajax-product ul.tabs-title li.tab-link:hover,.set_pss,
+.sectionContentStore .leftCollumStore .resultStore #list-store .item.checked{
+	background: #ff5757 ;
+}
+@media (min-width:768px) {
+	.phone-box,.zalo-box, .fb-box { 
+		background: #ff5757;
+	}
+}
